@@ -1,4 +1,4 @@
-package com.dharsh.codewars;
+package com.dharsh.incubation;
 
 public class AddFraction {
     public static int[] addFractions( int[] fraction1, int[] fraction2){

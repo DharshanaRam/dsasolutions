@@ -1,3 +1,5 @@
+package com.dharsh.codewars;
+
 public class MazeRunner{
 
     static String mazeRunner(int[][] maze,String[] directions){

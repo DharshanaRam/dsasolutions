@@ -1,3 +1,5 @@
+package com.dharsh.codewars;
+
 import java.util.*;
 
 public class SnakeAndLadder {

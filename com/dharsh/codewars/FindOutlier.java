@@ -1,3 +1,6 @@
+
+package com.dharsh.codewars;
+
 public class FindOutlier{
     static int find(int[] integers){
       int result = 0;

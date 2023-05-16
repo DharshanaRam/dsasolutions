@@ -1,3 +1,5 @@
+package com.dharsh.codewars;
+
 import java.util.Arrays;
 
 public class ConsecutiveString {

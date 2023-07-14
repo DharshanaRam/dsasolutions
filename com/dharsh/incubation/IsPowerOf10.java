@@ -7,7 +7,7 @@ public class IsPowerOf10 {
 
     public static void main(String[] args) { 
         System.out.println(isPowerOf10(3));
-        System.out.println(isPowerOf10(30));
+        System.out.println(isPowerOf10(220));
     }
    
 }
